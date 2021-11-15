@@ -1,4 +1,6 @@
-# dumi app
+# yugeCMS内容管理系统文档
+
+## 基于dumi
 
 ## Getting Started
 
